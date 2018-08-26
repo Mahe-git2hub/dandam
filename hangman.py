@@ -24,7 +24,7 @@ def printHang(n):
 
 def word_pick():
     import random
-    return random.choice(open(r'C:\Users\ggmah\Desktop\words.txt').read().split()).strip()
+    return random.choice(open(r'"""(the address or the path)"""').read().split()).strip()
 
 
 
