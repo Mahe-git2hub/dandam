@@ -24,7 +24,7 @@ def printHang(n):
 
 def word_pick():
     import random
-    return random.choice(open(r'"""(the address or the path)"""').read().split()).strip()
+    return random.choice(open(r'"""(the address or the path to the file which has list of words to play)"""').read().split()).strip()
 
 
 
